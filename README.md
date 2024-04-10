@@ -14,18 +14,28 @@ Advanced DDOS Pannel
      
   # Installation
 
- * First Install Python And Go lang
- * Then Install python modules
+ * 📌 First Install Python And Go lang 🤣🤣
+ * 📌 Then Clone The Repository
+   
+         git clone https://github.com/silentkiller365/CrashX.git
+ 
+ * 📌 Then Install python modules
    
          pip install -r requirement.txt
- * Then Build Go script
+ 
+ * 📌 Then Build Go script
 
          go build CrashX.go
- * Then Run Python script
+ 
+ * 📌 Then Run Python script
 
          python CrashX.py
 
-  * Username : Admin
-  * Password : @H3X4R
+  * 📌 Username : Admin
+  * 📌 Password : @H3X4R
+
+   # Important ❗️❗️
+
+   * Don't Change File Names If You Changed Tool Not Working ... 😢
 
     
