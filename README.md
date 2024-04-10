@@ -37,5 +37,13 @@ Advanced DDOS Pannel
    # Important ❗️❗️
 
    * Don't Change File Names If You Changed Tool Not Working ... 😢
+   * USE RDP,VPS OR CLOUDSHELL
+
+  # Warning ‼️
+
+  * Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
+    The creator is not responsible for the damage caused by the attacks. 
+    Remember: you are responsible for the attacks since this tool was created for educational purposes. 😢
+  
 
     
