@@ -2,9 +2,16 @@ import os
 from termcolor import colored
 import time
 
+def clear_terminal():
+    """Clears the terminal screen."""
+    if os.name == 'nt': 
+        os.system('cls')
+    else:  
+        os.system('clear')
+
 def check_credentials():
-    username = input("Username: ");
-    
+    clear_terminal()  
+    username = input("Username: ")
     password = input("Password: ")
 
     if username == "Admin" and password == "@H3X4R":
