@@ -26,6 +26,10 @@ Advanced DDOS Pannel
  * 📌 Then Build Go script
 
          go build CrashX.go
+   
+* 📌 If you using Linux Run This
+   
+         ulimit -n 999999
  
  * 📌 Then Run Python script
 
